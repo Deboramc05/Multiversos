@@ -3,6 +3,7 @@ Projeto desenvolvido em HTML, CSS e JavaScript, para aprender mais sobre posicio
 Esse projeto foi proposto pela expert Michele Ambrosio da plataforma educacional DIO na Formação CSS Developer.
 
 ## 🖥 Preview:
+(https://deboramc05.github.io/Multiversos/)
 
 ## 👨‍💻 Objetivo:
 - Reproduzir passo passo o projeto visto em aula.
